@@ -20,7 +20,7 @@ import { jwtDecode } from "jwt-decode";
 
 const dataNavMain = [
   {
-    title: "Playground",
+    title: "Menu",
     url: "#",
     icon: SquareTerminal,
     isActive: true,
